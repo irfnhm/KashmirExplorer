@@ -1,0 +1,30 @@
+<resources>
+    <string name="historical_public_places">Historical Places</string>
+    <string name="major_attraction">Gardens</string>
+    <string name="place_for_foodies">Food</string>
+    <string name="accommodation">Stay</string>
+
+    <string name="app_name">Explore Kashmir</string>
+    <string name="winterfell">Winterfell Cafe</string>
+    <string name="winterfell_address">Boulevard Gate 5</string>
+    <string name="fatpanda">Fat Panda</string>
+    <string name="fatpanda_address">Boulevard Gate 5</string>
+    <string name="ahdoos">Ahdoos Foods</string>
+    <string name="ahdoos_address">Polo Ground</string>
+
+    <string name="shalimar">Shalimar Garden</string>
+    <string name="nishat">Nishat Garden</string>
+    <string name="tulip">Tulip Garden</string>
+    <string name="attraction_time">7 A.M - 10 P.M</string>
+
+    <string name="hariparbat">Hari Parbat Fort</string>
+    <string name="burzahama">Burzahama Ruins</string>
+    <string name="hari_burz_time">8 A.M - 7 P.M</string>
+    <string name="jamiamasjid">Jamia Masjid Srinagar</string>
+    <string name="masjid_time">24 Hourss</string>
+
+    <string name="grandpalace">Grand Palace Hotels and Resorts</string>
+    <string name="tajvivanta">Vivanta by Taj</string>
+    <string name="shangrilla">Shangrilla Hotels</string>
+    <string name="hotel_time">24 Hours</string>
+</resources>
